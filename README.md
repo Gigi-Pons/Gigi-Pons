@@ -8,3 +8,6 @@
 - [Operating System Projects](https://github.com/Gigi-Pons/OperatingSystemProjects)
 
 <h2>👾 Game Development Projects: </h2>
+
+- [Watercraft Game](https://github.com/Gigi-Pons/watercraftGame)
+- [Sea Turtle Game](https://github.com/Gigi-Pons/seaTurtleGame)
