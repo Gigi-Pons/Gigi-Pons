@@ -1,5 +1,11 @@
 <h1>Hi, I'm Grecia! <br/><a href="https:github.com/Gigi-Pons">Software Developer</a></h1>
 
+<h2>🤖 React Projects: </h2>
+
+- [Change Colors App](https://github.com/Gigi-Pons/ChangeColors)
+
+<h2>📨  Data Structures and Algorithms: </h2>
+
 <h2>👩🏽‍💻 Software Development Projects: </h2>
 
 - [Recursion](https://github.com/gigi-pons/recursion)
@@ -12,6 +18,3 @@
 - [Watercraft Game](https://github.com/Gigi-Pons/watercraftGame)
 - [Sea Turtle Game](https://github.com/Gigi-Pons/seaTurtleGame)
 
-<h2>🤖 React Projects: </h2>
-
-- [Change Colors App](https://github.com/Gigi-Pons/ChangeColors)
