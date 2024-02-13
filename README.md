@@ -3,6 +3,7 @@
 <h2>🤖 React Projects: </h2>
 
 - [Change Colors App](https://github.com/Gigi-Pons/ChangeColors)
+- [To Do List](https://github.com/Gigi-Pons/ToDoListOnline?tab=readme-ov-file)
 
 <h2>📨  Data Structures and Algorithms: </h2>
 
