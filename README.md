@@ -1,9 +1,8 @@
 <h1>Hi, I'm Grecia! <br/><a href="https:github.com/Gigi-Pons">Software Developer</a></h1>
 
-<h2>🤖 React Projects: </h2>
+<h2>🤖 Spring Projects: </h2>
 
-- [Change Colors App](https://github.com/Gigi-Pons/ChangeColors)
-- [To Do List](https://github.com/Gigi-Pons/ToDoListOnline?tab=readme-ov-file)
+- [Quiz Application](https://github.com/Gigi-Pons/QuizApplication)
 
 <h2>📨  Data Structures and Algorithms: </h2>
 
