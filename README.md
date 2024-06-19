@@ -3,7 +3,7 @@
 <h2>🤖 Spring Projects: </h2>
 
 - [Quiz Application](https://github.com/Gigi-Pons/QuizApplication)
-- [AWS Cloud Deployment]
+- [AWS Cloud Deployment](https://github.com/Gigi-Pons/AWS_SpringBoot)
 
 <h2>📨  Data Structures and Algorithms: </h2>
 
