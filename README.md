@@ -14,6 +14,8 @@
 - [Search Algorithms](https://github.com/gigi-pons/SearchAlgorithms)
 - [Sorting Algorithms](https://github.com/gigi-pons/SortingAlgorithms)
 
+<h2>✏️ Java Projects: </h2>
+
 <h2>👩🏽‍💻 Operating Systems: </h2>
 
 - [CPU Scheduling](https://github.com/Gigi-Pons/OperatingSystemProjects)
