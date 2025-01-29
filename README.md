@@ -16,6 +16,8 @@
 
 <h2>✏️ Java Projects: </h2>
 
+-[MathQuiz](https://github.com/Gigi-Pons/MathQuiz)
+
 <h2>👩🏽‍💻 Operating Systems: </h2>
 
 - [CPU Scheduling](https://github.com/Gigi-Pons/OperatingSystemProjects)
