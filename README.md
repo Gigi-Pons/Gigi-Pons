@@ -16,7 +16,7 @@
 
 <h2>✏️ Java Projects: </h2>
 
--[MathQuiz](https://github.com/Gigi-Pons/MathQuiz)
+- [MathQuiz](https://github.com/Gigi-Pons/MathQuiz)
 
 <h2>👩🏽‍💻 Operating Systems: </h2>
 
