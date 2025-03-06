@@ -10,6 +10,7 @@
 
 <h2>📨  Data Structures and Algorithms: </h2>
 
+- [Frequency Counter](https://github.com/Gigi-Pons/FrequencyCounter)
 - [Recursion](https://github.com/gigi-pons/recursion)
 - [Search Algorithms](https://github.com/gigi-pons/SearchAlgorithms)
 - [Sorting Algorithms](https://github.com/gigi-pons/SortingAlgorithms)
@@ -17,6 +18,8 @@
 <h2>✏️ Java Projects: </h2>
 
 - [MathQuiz](https://github.com/Gigi-Pons/MathQuiz)
+
+<h2>🔧 HTML: </h2>
 
 <h2>👩🏽‍💻 Operating Systems: </h2>
 
