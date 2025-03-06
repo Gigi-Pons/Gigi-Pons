@@ -21,6 +21,8 @@
 
 <h2>🔧 HTML: </h2>
 
+- [html example](https://github.com/Gigi-Pons/BeginnerHtml)
+
 <h2>👩🏽‍💻 Operating Systems: </h2>
 
 - [CPU Scheduling](https://github.com/Gigi-Pons/OperatingSystemProjects)
