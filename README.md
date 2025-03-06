@@ -21,7 +21,7 @@
 
 <h2>🔧 HTML: </h2>
 
-- [html example](https://github.com/Gigi-Pons/BeginnerHtml)
+- [Html example](https://github.com/Gigi-Pons/BeginnerHtml)
 
 <h2>👩🏽‍💻 Operating Systems: </h2>
 
