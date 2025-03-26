@@ -19,7 +19,7 @@
 
 - [MathQuiz](https://github.com/Gigi-Pons/MathQuiz)
 
-<h2>🔧 HTML: </h2>
+<h2>🔧 HTML|CSS: </h2>
 
 - [Html example](https://github.com/Gigi-Pons/BeginnerHtml)
 
