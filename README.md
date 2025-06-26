@@ -1,5 +1,5 @@
-<h1>Hi, I'm Grecia! <br/><a href="https:github.com/Gigi-Pons">Software Developer</a></h1>
-
+<h1>Hi, I'm Grecia!<h1>
+<h2><a href="https:github.com/Gigi-Pons">Software Developer</a></h2>
 
 # 💻 Trivia Quiz API
 
