@@ -9,8 +9,10 @@ I’m currently working on **SQL** and covering topics like:
 - JOINS vs Subqueries
 - Window functions
 - Real-world problem solving
+- Data cleaning
+- Data exploration
 
-All practice work, notes, and exercises can be found in the folders above 👆
+All practice work, notes, and exercises can be found in this [folder](https://github.com/Gigi-Pons/data-analyst)
 
 ---
 
